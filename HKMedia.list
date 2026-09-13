@@ -5,9 +5,14 @@
 DOMAIN-SUFFIX,881903.com
 DOMAIN-SUFFIX,my903.com
 
-# Now 新闻
+# Now 新闻 / Now TV
 DOMAIN-SUFFIX,now.com
 DOMAIN-SUFFIX,now.com.hk
+DOMAIN-SUFFIX,now-ashare.com
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowe.hk
+DOMAIN-SUFFIX,nowestatic.com
 
 # 香港有线新闻
 DOMAIN-SUFFIX,i-cable.com
