@@ -1,0 +1,22 @@
+# 香港媒体
+# Commercial Radio / Now News / i-CABLE News / ViuTV
+
+# 香港商业电台
+DOMAIN-SUFFIX,881903.com
+DOMAIN-SUFFIX,my903.com
+
+# Now 新闻
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,now.com.hk
+
+# 香港有线新闻
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,hkcable.com.hk
+DOMAIN-SUFFIX,cabletv.com.hk
+
+# ViuTV
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.now.com
+DOMAIN,viutv-cms.s3.amazonaws.com
+DOMAIN,pccw-live-cdn-viutv.akamaized.net
