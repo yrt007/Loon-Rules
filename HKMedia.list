@@ -25,11 +25,16 @@ DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,nowestatic.com
 
 
+# =========================
 # 香港有线新闻 i-CABLE / HOY
+# =========================
 DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,cabletv.com.hk
 DOMAIN-SUFFIX,hkcable.com.hk
 DOMAIN-SUFFIX,hoy.tv
+
+# 有线新闻独立 AWS 资源
+DOMAIN,cablenews-staging.s3.ap-southeast-1.amazonaws.com
 
 # 香港01 HK01
 DOMAIN-SUFFIX,hk01.com
